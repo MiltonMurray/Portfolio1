@@ -445,7 +445,12 @@
 		color: #616f77 !important;
 		opacity: 1.0;
 	}
-
+/* Bar*/
+.bar {
+	text-decoration: none;
+	position: relative;
+	border-bottom: none;
+}
 /* Icon */
 
 	.icon {
